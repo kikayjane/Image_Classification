@@ -13,7 +13,8 @@ To develop a neural network-based image classification algorithm, the following 
   2. Define the neural network
   3. Train the model
   4. Evaluate the model (test accuracy)
-  5. Visualize the results/predictions
+  5. Generate confusion matrix
+  6. Visualize the results/predictions
 The file "image_classification_analysis" contains the coding that performs the analysis, and is linked in the repository.
 
 ## Author
